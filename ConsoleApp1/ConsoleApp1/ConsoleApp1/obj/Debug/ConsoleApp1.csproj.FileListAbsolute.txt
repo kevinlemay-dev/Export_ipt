@@ -1,0 +1,16 @@
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\obj\Debug\Interop.InventorApprentice.dll
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\obj\Debug\Interop.InventorUtilities.dll
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.ResolveComReference.cache
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.manifest
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.application
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe.manifest
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.application
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.UserInputForm.resources

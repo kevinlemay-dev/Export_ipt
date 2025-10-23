@@ -1,0 +1,16 @@
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\obj\Release\Interop.InventorApprentice.dll
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\obj\Release\Interop.InventorUtilities.dll
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.ResolveComReference.cache
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.Form1.resources
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.GenerateResource.cache
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe.manifest
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.application
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe.manifest
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.application
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\klemay\OneDrive - Seneca Experts Conseils\Documents\GitHub\VbNet Learning\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.pdb
